@@ -1,8 +1,6 @@
 ## Address Book
 
 Platform/Language: Your choice  
-Time limit: ~30 Minutes
-
 
 ### Instructions
 

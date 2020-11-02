@@ -1,6 +1,6 @@
 ### Lotto Exercise
 
-Time Limit: 15 minutes
+
 
 Language/Platform: Your choice
 

@@ -1,6 +1,5 @@
 ### Primes
 
-Time: ~20 minutes
 
 Platform/Language: Your choice
 
